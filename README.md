@@ -37,5 +37,5 @@ pawgers.herokuapp.com
 
 ## Questions
 
-Send questions to email ericyoung111@gmail.com or check out my [GitHub profile.](www.github.com/Thesselonian)
+Send questions to email ericyoung111@gmail.com or check out my [GitHub profile.](www.github.com/Thesselonian)a
     
